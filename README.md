@@ -1,8 +1,7 @@
 # My-Portfolio
 
-Portfolio for Tommy Flynn. 
+Portfolio for Patrick Flynn. 
 
-https://github.com/TFly33
-Email: TFly.Flynn@gmail.com
-Cell: 703.731.4016 
+Email: PFly555@gmail.com
+
 
